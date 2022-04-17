@@ -7,24 +7,24 @@ This repository contains my projects from the "Data Science Specialist" training
 
 - **Модуль 01 / Module 01**
   - [Предобработка данных / Data Processing - *Project_01*](https://github.com/MikeZyuzin/Yandex_projects/blob/main/Project_01/Project_01.ipynb)
-  - Исследовательский анализ данных / Exploratory data analysis - *Project_02*
-  - Статистический анализ данных / Statistical analysis of data - *Project_03*
-  - Сборный проект / Common project - *Project_04*
+  - [Исследовательский анализ данных / Exploratory data analysis - *Project_02*](https://github.com/MikeZyuzin/Yandex_projects/blob/main/Project_02/Project_02.ipynb)
+  - [Статистический анализ данных / Statistical analysis of data - *Project_03*](https://github.com/MikeZyuzin/Yandex_projects/blob/main/Project_03/Project_03.ipynb)
+  - [Сборный проект / Common project - *Project_04*](https://github.com/MikeZyuzin/Yandex_projects/blob/main/Project_04/Project_04.ipynb)
 - **Модуль 02 / Module 02**  
-  - Введение в машинное обучение / Introduction to machine learning  - *Project_05*
-  - Обучение с учителем / Supervised learning  - *Project_06*
-  - Машинное обучение в бизнесе / Machine learning in business  - *Project_07*
-  - Сборный проект / Common project  - *Project_08*
+  - [Введение в машинное обучение / Introduction to machine learning  - *Project_05*](https://github.com/MikeZyuzin/Yandex_projects/blob/main/Project_05/Project_05.ipynb)
+  - [Обучение с учителем / Supervised learning  - *Project_06*](https://github.com/MikeZyuzin/Yandex_projects/blob/main/Project_06/Project_06.ipynb)
+  - [Машинное обучение в бизнесе / Machine learning in business  - *Project_07*](https://github.com/MikeZyuzin/Yandex_projects/blob/main/Project_07/Project_07.ipynb)
+  - [Сборный проект / Common project  - *Project_08*](https://github.com/MikeZyuzin/Yandex_projects/blob/main/Project_08/Project_08.ipynb)
 - **Модуль 03 / Module 03**  
-  - Линейная алгебра / Linear algebra  - *Project_09*
-  - Численные методы (градиентный бустинг) / Numerical analysis (gradient boosting)  - *Project_10*
-  - Временные ряды / Time series  - *Project_11*
-  - Машинное обучение для текстов / Machine learning for texts  - *Project_12*
+  - [Линейная алгебра / Linear algebra  - *Project_09*](https://github.com/MikeZyuzin/Yandex_projects/blob/main/Project_09/Project_09.ipynb)
+  - [Численные методы (градиентный бустинг) / Numerical analysis (gradient boosting)  - *Project_10*](https://github.com/MikeZyuzin/Yandex_projects/blob/main/Project_10/Project_10.ipynb)
+  - [Временные ряды / Time series  - *Project_11*](https://github.com/MikeZyuzin/Yandex_projects/blob/main/Project_11/Project_11.ipynb)
+  - [Машинное обучение для текстов / Machine learning for texts  - *Project_12*](https://github.com/MikeZyuzin/Yandex_projects/blob/main/Project_12/Project_12.ipynb)
 - **Модуль 04 / Module 04**  
-  - Извлечение данных / Data retrieval - *Project_13*
-  - Компьютерное зрение / Computer vision  - *Project_14*
-  - Рекомендации и обучение без учителя / Unsupervised learning
-- **Выпускной проект / Final project**  - *Project_final*
+  - [Извлечение данных / Data retrieval - *Project_13*](https://github.com/MikeZyuzin/Yandex_projects/blob/main/Project_13/Project_13.ipynb)
+  - [Компьютерное зрение / Computer vision  - *Project_14*](https://github.com/MikeZyuzin/Yandex_projects/blob/main/Project_14/Project_14.ipynb)
+  - [Рекомендации и обучение без учителя / Unsupervised learning]
+- [**Выпускной проект / Final project**  - *Project_final*]
 
 ## Project_01 
 
