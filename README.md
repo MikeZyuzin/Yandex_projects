@@ -6,7 +6,7 @@ This repository contains my projects from the "Data Science Specialist" training
 #### Содержание: / Content:
 
 - **Модуль 01 / Module 01**
-  - Предобработка данных / Data Processing - *Project_01*
+  - [Предобработка данных / Data Processing - *Project_01*](https://github.com/MikeZyuzin/Yandex_projects/blob/main/Project_01/Project_01.ipynb])
   - Исследовательский анализ данных / Exploratory data analysis - *Project_02*
   - Статистический анализ данных / Statistical analysis of data - *Project_03*
   - Сборный проект / Common project - *Project_04*
