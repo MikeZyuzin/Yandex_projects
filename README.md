@@ -1,7 +1,7 @@
 ## Data Science
-В этом репозитории собраны мои проекты из курса "Специалист по Data Science" Яндекс.Практикума
+В репозитории собраны  проекты из курса "Специалист по Data Science" Яндекс.Практикума
 
-This repository contains my projects from the "Data Science Specialist" training program by Yandex.Praktikum
+This repository contains projects from the "Data Science Specialist" training program by Yandex.Praktikum
 
 #### Содержание: / Content:
 
