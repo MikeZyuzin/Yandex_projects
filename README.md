@@ -23,8 +23,8 @@ This repository contains my projects from the "Data Science Specialist" training
 - **Модуль 04 / Module 04**  
   - [Извлечение данных / Data retrieval - *Project_13*](https://github.com/MikeZyuzin/Yandex_projects/blob/main/Project_13/Project_13.ipynb)
   - [Компьютерное зрение / Computer vision  - *Project_14*](https://github.com/MikeZyuzin/Yandex_projects/blob/main/Project_14/Project_14.ipynb)
-  - [Рекомендации и обучение без учителя / Unsupervised learning]
-- [**Выпускной проект / Final project**  - *Project_final*]
+  - [Рекомендации и обучение без учителя / Unsupervised learning](https://github.com/MikeZyuzin/Yandex_projects/blob/main/Project_final/final_project.ipynb])
+- [**Выпускной проект / Final project**  - *Project_final*](https://github.com/MikeZyuzin/Yandex_projects/blob/main/Project_final/final_project.ipynb)
 
 ## Project_01 
 
