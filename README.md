@@ -42,7 +42,7 @@ The results of the research will be taken into account when building a credit sc
 В вашем распоряжении данные сервиса Яндекс.Недвижимость — архив объявлений о продаже квартир в Санкт-Петербурге и соседних населённых пунктов за несколько лет. Нужно научиться определять рыночную стоимость объектов недвижимости. Ваша задача — установить параметры. Это позволит построить автоматизированную систему: она отследит аномалии и мошенническую деятельность.
 
 ### Exploratory data analysis
-At your disposal is the data of the service Yandex. Apartments for sale in Saint-Petersburg and neighboring settlements for several years. You need to learn how to determine the market value of real estate. Your task is to set the parameters. This will build an automated system: it will track anomalies and fraudulent activity.
+At your disposal is the data of the service Yandex.Nedvijimost for sale in Saint-Petersburg and neighboring settlements for several years. You need to learn how to determine the market value of real estate. Your task is to set the parameters. This will build an automated system: it will track anomalies and fraudulent activity.
 
 ## Project_03 
 
@@ -50,7 +50,7 @@ At your disposal is the data of the service Yandex. Apartments for sale in Saint
 Вы аналитик компании «Мегалайн» — федерального оператора сотовой связи. Клиентам предлагают два тарифных плана: «Смарт» и «Ультра». Чтобы скорректировать рекламный бюджет, коммерческий департамент хочет понять, какой тариф приносит больше денег.
 
 ### Statistical analysis of data 
-You are an analyst of Megaline, a federal mobile operator. The clients are offered two tariff plans: "Smart" and "Ultra". To adjust the advertising budget, the commercial department wants to understand which tariff brings more money.
+You are an analyst of «Megaline», a federal mobile operator. The clients are offered two tariff plans: "Smart" and "Ultra". To adjust the advertising budget, the commercial department wants to understand which tariff brings more money.
 
 ## Project_04 
 
@@ -58,7 +58,7 @@ You are an analyst of Megaline, a federal mobile operator. The clients are offer
 Вы работаете в интернет-магазине «Стримчик», который продаёт по всему миру компьютерные игры. Из открытых источников доступны исторические данные о продажах игр, оценки пользователей и экспертов, жанры и платформы (например, Xbox или PlayStation). Вам нужно выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.
 
 ### Common project
-You work in the online store " Streamchik ", which sells around the world computer games. Historical data on game sales, user and expert evaluations, genres and platforms (e.g. Xbox or PlayStation) are available from open sources. You need to identify patterns that determine the success of the game. This will allow you to bet on a potentially popular product and plan advertising campaigns.
+You work in the online store «Streamchik», which sells around the world computer games. Historical data on game sales, user and expert evaluations, genres and platforms (e.g. Xbox or PlayStation) are available from open sources. You need to identify patterns that determine the success of the game. This will allow you to bet on a potentially popular product and plan advertising campaigns.
 
 ## Project_05
 
@@ -82,7 +82,7 @@ Mobile operator "Megaline" found out: many customers use archive tariffs. They w
 Допустим, вы работаете в добывающей компании «ГлавРосГосНефть». Нужно решить, где бурить новую скважину. Вам предоставлены пробы нефти в трёх регионах: в каждом — 100 000 месторождений, где измерили качество нефти и объём её запасов. Постройте модель машинного обучения, которая поможет определить регион, где добыча принесёт наибольшую прибыль.
 
 ### Machine learning in business
-Suppose you work at GlavRosGosNeft production company. We need to decide where to drill the new well. You have been given samples of oil in three regions: in each region there are 100,000 oil fields where the quality of oil and the volume of its reserves were measured. Build a model of machine training that will help you determine the region where production will bring the most profit.
+Suppose you work at «GlavRosGosNeft» production company. We need to decide where to drill the new well. You have been given samples of oil in three regions: in each region there are 100,000 oil fields where the quality of oil and the volume of its reserves were measured. Build a model of machine training that will help you determine the region where production will bring the most profit.
 
 ## Project_08
 
@@ -90,7 +90,7 @@ Suppose you work at GlavRosGosNeft production company. We need to decide where t
 Подготовьте прототип модели машинного обучения для «Цифры». Компания разрабатывает решения для эффективной работы промышленных предприятий. Модель должна предсказать коэффициент восстановления золота из золотосодержащей руды. В вашем распоряжении данные с параметрами добычи и очистки. Модель поможет оптимизировать производство, чтобы не запускать предприятие с убыточными характеристиками
 
 ### Common project
-Prepare a prototype machine learning model for "Numbers". The company develops solutions for efficient operation of industrial enterprises. The model must predict the recovery rate of gold from gold ore. Data with mining and cleaning parameters are at your disposal. The model will help to optimize production so as not to run a plant with loss-making characteristics.
+Prepare a prototype machine learning model for "Tsifri". The company develops solutions for efficient operation of industrial enterprises. The model must predict the recovery rate of gold from gold ore. Data with mining and cleaning parameters are at your disposal. The model will help to optimize production so as not to run a plant with loss-making characteristics.
 
 ## Project_09
 
@@ -98,7 +98,7 @@ Prepare a prototype machine learning model for "Numbers". The company develops s
 Вам нужно защитить данные клиентов страховой компании «Хоть потоп». Разработайте такой метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию.
 
 ### Linear algebra 
-You need to protect your customer data from "We're not afraid of the flood" insurance company. Develop a method to convert data so that it is difficult to recover personal information.
+You need to protect your customer data from "Hot potop" insurance company. Develop a method to convert data so that it is difficult to recover personal information.
 
 ## Project_10
 
@@ -106,7 +106,7 @@ You need to protect your customer data from "We're not afraid of the flood" insu
 Сервис по продаже автомобилей с пробегом «Не бит, не крашен» разрабатывает приложение для привлечения новых клиентов. В нём можно быстро узнать рыночную стоимость своего автомобиля. В вашем распоряжении исторические данные: технические характеристики, комплектации и цены автомобилей. Вам нужно построить модель для определения стоимости.
 
 ### Numerical analysis
-Car sales service with mileage "Not broken, not painted" develops an application to attract new customers. In it you can quickly find out the market value of your car. Historical data: technical specifications, equipment and prices of cars are at your disposal. You need to build a model to determine the price.
+Car sales service with mileage "Ne bit, ne krashen" develops an application to attract new customers. In it you can quickly find out the market value of your car. Historical data: technical specifications, equipment and prices of cars are at your disposal. You need to build a model to determine the price.
 
 ## Project_11
 
@@ -114,7 +114,7 @@ Car sales service with mileage "Not broken, not painted" develops an application
 Компания «Чётенькое такси» собрала исторические данные о заказах такси в аэропортах. Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час. Постройте модель для такого предсказания.
 
 ### Time series
-"Cool Taxi" Company has collected historical data on taxi orders at airports. To attract more drivers during the peak load, you need to predict the number of taxi orders for the next hour. Build a model for such a prediction.
+"Chetenkoye Taxi" Company has collected historical data on taxi orders at airports. To attract more drivers during the peak load, you need to predict the number of taxi orders for the next hour. Build a model for such a prediction.
 
 ## Project_12
 
@@ -145,7 +145,7 @@ You are an analyst of the Russian airline F9, which performs domestic passenger 
 * Контролировать добросовестность кассиров при продаже алкоголя.
 
 ### Computer vision
-Network supermarket "Bread and salt" introduces a computer vision system for processing photos of customers. Photofixing in the checkout area will help determine the age of customers to:
+Network supermarket "Hleb-Sol" introduces a computer vision system for processing photos of customers. Photofixing in the checkout area will help determine the age of customers to:
 
 * Analyze purchases and offer products that may interest customers of this age group;
 * Monitor the integrity of cashiers when selling alcohol.
@@ -154,8 +154,8 @@ Network supermarket "Bread and salt" introduces a computer vision system for pro
 
 ### Выпускной проект
 
-Чтобы оптимизировать производственные расходы, металлургический комбинат ООО «Так закаляем сталь» решил уменьшить потребление электроэнергии на этапе обработки стали. Вам предстоит построить модель, которая предскажет температуру стали.
+Оператор связи «Ниединогоразрыва.ком» хочет научиться прогнозировать отток клиентов. Если выяснится, что пользователь планирует уйти, ему будут предложены промокоды и специальные условия. Команда оператора собрала персональные данные о некоторых клиентах, информацию об их тарифах и договорах.
 
 ### Final project
 
-In order to optimize production costs, "That's how we temper steel" metallurgical plant decided to reduce electricity consumption at the steel processing stage. You have to build a model that predicts the temperature of steel.
+The operator of communication "Niedinogorazryva.com" wants to learn how to predict the outflow of customers. If it turns out that the user is planning to leave, he will be offered promo codes and special conditions. The operator's team collected personal data about some customers, information about their tariffs and contracts.
